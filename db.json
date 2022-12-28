@@ -17,6 +17,126 @@
             },
             "duration": 10000
          },
+         "carouselBanner": {
+            "scrollAnimationDuration": 1000,
+            "data": [
+               {
+                  "banner_id": "1001",
+                  "order": "1",
+                  "title": {
+                     "en": "Bonus 150% up to 1,188 people when you join us Sign up now",
+                     "cn": "彩金150%高达1,188人民币"
+                  },
+                  "subtitle": {
+                     "en": "when you join us",
+                     "cn": "加码免费旋转88次加码免"
+                  },
+                  "link_button_text": {
+                     "en": "Sign up now",
+                     "cn": "查看品牌"
+                  },
+                  "link_button_url": "https://google.com",
+                  "enable_baner": false,
+                  "banner_img_path": "http://192.168.88.128:3000/images/sliding-banner-2.png",
+                  "banner_icon_path": "",
+                  "banner_img_tag": "ABC games",
+                  "banner_icon_tag": "ABC games",
+                  "hide_text_and_icon": true
+               },
+               {
+                  "banner_id": "1002",
+                  "order": "2",
+                  "title": {
+                     "en": "Bonus 150% up to 1,188 people when you join us Sign up now",
+                     "cn": "彩金150%高达1,188人民币"
+                  },
+                  "subtitle": {
+                     "en": "when you join us",
+                     "cn": "加码免费旋转88次加码免"
+                  },
+                  "link_button_text": {
+                     "en": "Sign up now",
+                     "cn": "查看品牌"
+                  },
+                  "link_button_url": "https://google.com",
+                  "enable_baner": false,
+                  "banner_img_path": "http://192.168.88.128:3000/images/sliding-banner-2.png",
+                  "banner_icon_path": "",
+                  "banner_img_tag": "ABC games",
+                  "banner_icon_tag": "ABC games",
+                  "hide_text_and_icon": true
+               },
+               {
+                  "banner_id": "1003",
+                  "order": "3",
+                  "title": {
+                     "en": "Bonus 150% up to 1,188 people when you join us Sign up now",
+                     "cn": "彩金150%高达1,188人民币"
+                  },
+                  "subtitle": {
+                     "en": "when you join us",
+                     "cn": "加码免费旋转88次加码免"
+                  },
+                  "link_button_text": {
+                     "en": "Sign up now",
+                     "cn": "查看品牌"
+                  },
+                  "link_button_url": "https://google.com",
+                  "enable_baner": false,
+                  "banner_img_path": "http://192.168.88.128:3000/images/sliding-banner-2.png",
+                  "banner_icon_path": "",
+                  "banner_img_tag": "ABC games",
+                  "banner_icon_tag": "ABC games",
+                  "hide_text_and_icon": true
+               },
+               {
+                  "banner_id": "1004",
+                  "order": "4",
+                  "title": {
+                     "en": "Bonus 150% up to 1,188 people when you join us Sign up now",
+                     "cn": "彩金150%高达1,188人民币"
+                  },
+                  "subtitle": {
+                     "en": "when you join us",
+                     "cn": "加码免费旋转88次加码免"
+                  },
+                  "link_button_text": {
+                     "en": "Sign up now",
+                     "cn": "查看品牌"
+                  },
+                  "link_button_url": "https://google.com",
+                  "enable_baner": false,
+                  "banner_img_path": "http://192.168.88.128:3000/images/sliding-banner-2.png",
+                  "banner_icon_path": "",
+                  "banner_img_tag": "ABC games",
+                  "banner_icon_tag": "ABC games",
+                  "hide_text_and_icon": true
+               },
+               {
+                  "banner_id": "1005",
+                  "order": "5",
+                  "title": {
+                     "en": "Bonus 150% up to 1,188 people when you join us Sign up now",
+                     "cn": "彩金150%高达1,188人民币"
+                  },
+                  "subtitle": {
+                     "en": "when you join us",
+                     "cn": "加码免费旋转88次加码免"
+                  },
+                  "link_button_text": {
+                     "en": "Sign up now",
+                     "cn": "查看品牌"
+                  },
+                  "link_button_url": "https://google.com",
+                  "enable_baner": false,
+                  "banner_img_path": "http://192.168.88.128:3000/images/sliding-banner-2.png",
+                  "banner_icon_path": "",
+                  "banner_img_tag": "ABC games",
+                  "banner_icon_tag": "ABC games",
+                  "hide_text_and_icon": true
+               }
+            ]
+         },
          "progressStepper": [
             {
                "id": "1",
