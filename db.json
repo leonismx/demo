@@ -1,5 +1,5 @@
 {
-    "data":{
+   
         "logo": {
             "isText": false,
             "logoText": "",
@@ -1351,6 +1351,5 @@
                "icon": ""
             }
          ]
-    }
     
  }
